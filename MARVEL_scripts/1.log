@@ -1,0 +1,1636 @@
+Failed to parse line: Function detail: tvmgen_default_run
+Failed to parse line:     Low PC                :        520
+Failed to parse line:     High PC               :        555
+Failed to parse line:     Size in program memory:         36
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   20 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   18 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_add_rsqrt_multiply_multiply_add
+Failed to parse line:     Low PC                :        556
+Failed to parse line:     High PC               :        851
+Failed to parse line:     Size in program memory:        296
+Failed to parse line:     Stack frame size      :         48
+Failed to parse line:     Cycle-count           :               866600 ( 0.06%)
+Failed to parse line:     Instruction-count     :               669994 ( 0.05%)
+Failed to parse line:     Instruction Coverage  :                   75.68%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+792 f6 66 96 e3 bne x13, x6, -148 32768 94208 0 ***********************************************
+mnemonic:  bne
+cycles:  94208
+exe_count:  32768
+808 f4 d5 1a e3 bne x10, x13, -172 2048 5632 0 **
+mnemonic:  bne
+cycles:  5632
+exe_count:  2048
+836 f2 76 98 e3 bne x13, x7, -208 256 764 0 None
+mnemonic:  bne
+cycles:  764
+exe_count:  256
+Failed to parse line: Function detail: tvmgen_default_fused_add_rsqrt_multiply_multiply_add_1
+Failed to parse line:     Low PC                :        852
+Failed to parse line:     High PC               :       1151
+Failed to parse line:     Size in program memory:        300
+Failed to parse line:     Stack frame size      :         48
+Failed to parse line:     Cycle-count           :               866602 ( 0.06%)
+Failed to parse line:     Instruction-count     :               669996 ( 0.05%)
+Failed to parse line:     Instruction Coverage  :                   76.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+1092 f6 66 96 e3 bne x13, x6, -148 32768 94208 0 ***********************************************
+mnemonic:  bne
+cycles:  94208
+exe_count:  32768
+1108 f4 d5 1a e3 bne x10, x13, -172 2048 5632 0 **
+mnemonic:  bne
+cycles:  5632
+exe_count:  2048
+1136 f2 76 98 e3 bne x13, x7, -208 256 764 0 None
+mnemonic:  bne
+cycles:  764
+exe_count:  256
+Failed to parse line: Function detail: tvmgen_default_fused_add_rsqrt_multiply_multiply_add_2
+Failed to parse line:     Low PC                :       1152
+Failed to parse line:     High PC               :       1451
+Failed to parse line:     Size in program memory:        300
+Failed to parse line:     Stack frame size      :         48
+Failed to parse line:     Cycle-count           :               866602 ( 0.06%)
+Failed to parse line:     Instruction-count     :               669996 ( 0.05%)
+Failed to parse line:     Instruction Coverage  :                   76.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+1392 f6 66 96 e3 bne x13, x6, -148 32768 94208 0 ***********************************************
+mnemonic:  bne
+cycles:  94208
+exe_count:  32768
+1408 f4 d5 1a e3 bne x10, x13, -172 2048 5632 0 **
+mnemonic:  bne
+cycles:  5632
+exe_count:  2048
+1436 f2 76 98 e3 bne x13, x7, -208 256 764 0 None
+mnemonic:  bne
+cycles:  764
+exe_count:  256
+Failed to parse line: Function detail: tvmgen_default_fused_add_rsqrt_multiply_multiply_add_3
+Failed to parse line:     Low PC                :       1452
+Failed to parse line:     High PC               :       1751
+Failed to parse line:     Size in program memory:        300
+Failed to parse line:     Stack frame size      :         48
+Failed to parse line:     Cycle-count           :               866602 ( 0.06%)
+Failed to parse line:     Instruction-count     :               669996 ( 0.05%)
+Failed to parse line:     Instruction Coverage  :                   76.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+1692 f6 66 96 e3 bne x13, x6, -148 32768 94208 0 ***********************************************
+mnemonic:  bne
+cycles:  94208
+exe_count:  32768
+Failed to parse line: Function detail: tvmgen_default_fused_add_rsqrt_multiply_multiply_add_take
+Failed to parse line:     Low PC                :       1752
+Failed to parse line:     High PC               :       2019
+Failed to parse line:     Size in program memory:        268
+Failed to parse line:     Stack frame size      :         44
+Failed to parse line:     Cycle-count           :                 6796 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 5262 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   73.13%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_less_add_where_take_add
+Failed to parse line:     Low PC                :       2020
+Failed to parse line:     High PC               :       2215
+Failed to parse line:     Size in program memory:        196
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               373016 ( 0.02%)
+Failed to parse line:     Instruction-count     :               305946 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                   89.80%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_mean
+Failed to parse line:     Low PC                :       2216
+Failed to parse line:     High PC               :       2335
+Failed to parse line:     Size in program memory:        120
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               266000 ( 0.02%)
+Failed to parse line:     Instruction-count     :               199958 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_mean_1
+Failed to parse line:     Low PC                :       2336
+Failed to parse line:     High PC               :       2455
+Failed to parse line:     Size in program memory:        120
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               532000 ( 0.04%)
+Failed to parse line:     Instruction-count     :               399916 ( 0.03%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_mean_2
+Failed to parse line:     Low PC                :       2456
+Failed to parse line:     High PC               :       2571
+Failed to parse line:     Size in program memory:        116
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               531996 ( 0.04%)
+Failed to parse line:     Instruction-count     :               399912 ( 0.03%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_batch_matmul
+Failed to parse line:     Low PC                :       2572
+Failed to parse line:     High PC               :       3259
+Failed to parse line:     Size in program memory:        688
+Failed to parse line:     Stack frame size      :         28
+Failed to parse line:     Cycle-count           :             50106430 ( 3.35%)
+Failed to parse line:     Instruction-count     :             47865920 ( 3.70%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_batch_matmul_1
+Failed to parse line:     Low PC                :       3260
+Failed to parse line:     High PC               :       4163
+Failed to parse line:     Size in program memory:        904
+Failed to parse line:     Stack frame size      :         60
+Failed to parse line:     Cycle-count           :             41836626 ( 2.80%)
+Failed to parse line:     Instruction-count     :             40716372 ( 3.15%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_batch_matmul_2
+Failed to parse line:     Low PC                :       4164
+Failed to parse line:     High PC               :       4871
+Failed to parse line:     Size in program memory:        708
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             50107462 ( 3.35%)
+Failed to parse line:     Instruction-count     :             47866952 ( 3.70%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_batch_matmul_3
+Failed to parse line:     Low PC                :       4872
+Failed to parse line:     High PC               :       5739
+Failed to parse line:     Size in program memory:        868
+Failed to parse line:     Stack frame size      :         48
+Failed to parse line:     Cycle-count           :             41835078 ( 2.80%)
+Failed to parse line:     Instruction-count     :             40714824 ( 3.15%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack
+Failed to parse line:     Low PC                :       5740
+Failed to parse line:     High PC               :       6871
+Failed to parse line:     Size in program memory:       1132
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803296 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210338 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_1
+Failed to parse line:     Low PC                :       6872
+Failed to parse line:     High PC               :       8003
+Failed to parse line:     Size in program memory:       1132
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803296 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210338 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_10
+Failed to parse line:     Low PC                :       8004
+Failed to parse line:     High PC               :       9223
+Failed to parse line:     Size in program memory:       1220
+Failed to parse line:     Stack frame size      :         52
+Failed to parse line:     Cycle-count           :            206957944 (13.85%)
+Failed to parse line:     Instruction-count     :            176586106 (13.65%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_11
+Failed to parse line:     Low PC                :       9224
+Failed to parse line:     High PC               :      10451
+Failed to parse line:     Size in program memory:       1228
+Failed to parse line:     Stack frame size      :         52
+Failed to parse line:     Cycle-count           :            205554040 (13.75%)
+Failed to parse line:     Instruction-count     :            175547770 (13.57%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_2
+Failed to parse line:     Low PC                :      10452
+Failed to parse line:     High PC               :      11587
+Failed to parse line:     Size in program memory:       1136
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803298 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210340 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_3
+Failed to parse line:     Low PC                :      11588
+Failed to parse line:     High PC               :      12723
+Failed to parse line:     Size in program memory:       1136
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803298 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210340 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_4
+Failed to parse line:     Low PC                :      12724
+Failed to parse line:     High PC               :      13947
+Failed to parse line:     Size in program memory:       1224
+Failed to parse line:     Stack frame size      :         52
+Failed to parse line:     Cycle-count           :            206957946 (13.85%)
+Failed to parse line:     Instruction-count     :            176586108 (13.65%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_5
+Failed to parse line:     Low PC                :      13948
+Failed to parse line:     High PC               :      15179
+Failed to parse line:     Size in program memory:       1232
+Failed to parse line:     Stack frame size      :         52
+Failed to parse line:     Cycle-count           :            205554042 (13.75%)
+Failed to parse line:     Instruction-count     :            175547772 (13.57%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_6
+Failed to parse line:     Low PC                :      15180
+Failed to parse line:     High PC               :      16315
+Failed to parse line:     Size in program memory:       1136
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803298 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210340 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_7
+Failed to parse line:     Low PC                :      16316
+Failed to parse line:     High PC               :      17451
+Failed to parse line:     Size in program memory:       1136
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803298 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210340 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_8
+Failed to parse line:     Low PC                :      17452
+Failed to parse line:     High PC               :      18583
+Failed to parse line:     Size in program memory:       1132
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803296 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210338 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_9
+Failed to parse line:     Low PC                :      18584
+Failed to parse line:     High PC               :      19715
+Failed to parse line:     Size in program memory:       1132
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :             51803296 ( 3.47%)
+Failed to parse line:     Instruction-count     :             44210338 ( 3.42%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_add
+Failed to parse line:     Low PC                :      19716
+Failed to parse line:     High PC               :      19863
+Failed to parse line:     Size in program memory:        148
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                 3632 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 3122 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_contrib_dense_pack_add_tanh
+Failed to parse line:     Low PC                :      19864
+Failed to parse line:     High PC               :      20251
+Failed to parse line:     Size in program memory:        388
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :               390622 ( 0.03%)
+Failed to parse line:     Instruction-count     :               323440 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_softmax
+Failed to parse line:     Low PC                :      20252
+Failed to parse line:     High PC               :      20611
+Failed to parse line:     Size in program memory:        360
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :              3287913 ( 0.22%)
+Failed to parse line:     Instruction-count     :              2506477 ( 0.19%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_nn_softmax_1
+Failed to parse line:     Low PC                :      20612
+Failed to parse line:     High PC               :      20971
+Failed to parse line:     Size in program memory:        360
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :              3288379 ( 0.22%)
+Failed to parse line:     Instruction-count     :              2506011 ( 0.19%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_power_mean
+Failed to parse line:     Low PC                :      20972
+Failed to parse line:     High PC               :      21095
+Failed to parse line:     Size in program memory:        124
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               298768 ( 0.02%)
+Failed to parse line:     Instruction-count     :               232726 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_power_mean_1
+Failed to parse line:     Low PC                :      21096
+Failed to parse line:     High PC               :      21219
+Failed to parse line:     Size in program memory:        124
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               597536 ( 0.04%)
+Failed to parse line:     Instruction-count     :               465452 ( 0.04%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_power_mean_2
+Failed to parse line:     Low PC                :      21220
+Failed to parse line:     High PC               :      21339
+Failed to parse line:     Size in program memory:        120
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               597532 ( 0.04%)
+Failed to parse line:     Instruction-count     :               465448 ( 0.04%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_add
+Failed to parse line:     Low PC                :      21340
+Failed to parse line:     High PC               :      21451
+Failed to parse line:     Size in program memory:        112
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               465936 ( 0.03%)
+Failed to parse line:     Instruction-count     :               400402 ( 0.03%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_add_1
+Failed to parse line:     Low PC                :      21452
+Failed to parse line:     High PC               :      21563
+Failed to parse line:     Size in program memory:        112
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               465936 ( 0.03%)
+Failed to parse line:     Instruction-count     :               400402 ( 0.03%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_add_2
+Failed to parse line:     Low PC                :      21564
+Failed to parse line:     High PC               :      21675
+Failed to parse line:     Size in program memory:        112
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               465936 ( 0.03%)
+Failed to parse line:     Instruction-count     :               400402 ( 0.03%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_add_3
+Failed to parse line:     Low PC                :      21676
+Failed to parse line:     High PC               :      21783
+Failed to parse line:     Size in program memory:        108
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               465934 ( 0.03%)
+Failed to parse line:     Instruction-count     :               400400 ( 0.03%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_divide_erf_add_multiply_multiply_reshape
+Failed to parse line:     Low PC                :      21784
+Failed to parse line:     High PC               :      22003
+Failed to parse line:     Size in program memory:        220
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :              4114202 ( 0.28%)
+Failed to parse line:     Instruction-count     :              3720988 ( 0.29%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_divide_erf_add_multiply_multiply_reshape_1
+Failed to parse line:     Low PC                :      22004
+Failed to parse line:     High PC               :      22223
+Failed to parse line:     Size in program memory:        220
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :              4114202 ( 0.28%)
+Failed to parse line:     Instruction-count     :              3720988 ( 0.29%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_reshape_transpose_reshape
+Failed to parse line:     Low PC                :      22224
+Failed to parse line:     High PC               :      22387
+Failed to parse line:     Size in program memory:        164
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               379416 ( 0.03%)
+Failed to parse line:     Instruction-count     :               313882 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_reshape_transpose_reshape_1
+Failed to parse line:     Low PC                :      22388
+Failed to parse line:     High PC               :      22551
+Failed to parse line:     Size in program memory:        164
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               379416 ( 0.03%)
+Failed to parse line:     Instruction-count     :               313882 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_reshape_transpose_reshape_transpose
+Failed to parse line:     Low PC                :      22552
+Failed to parse line:     High PC               :      22715
+Failed to parse line:     Size in program memory:        164
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               379416 ( 0.03%)
+Failed to parse line:     Instruction-count     :               313882 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_reshape_transpose_reshape_transpose_1
+Failed to parse line:     Low PC                :      22716
+Failed to parse line:     High PC               :      22823
+Failed to parse line:     Size in program memory:        108
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               335124 ( 0.02%)
+Failed to parse line:     Instruction-count     :               269590 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_reshape_transpose_reshape_transpose_2
+Failed to parse line:     Low PC                :      22824
+Failed to parse line:     High PC               :      22987
+Failed to parse line:     Size in program memory:        164
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               379416 ( 0.03%)
+Failed to parse line:     Instruction-count     :               313882 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_add_reshape_transpose_reshape_transpose_3
+Failed to parse line:     Low PC                :      22988
+Failed to parse line:     High PC               :      23095
+Failed to parse line:     Size in program memory:        108
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               335124 ( 0.02%)
+Failed to parse line:     Instruction-count     :               269590 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_divide_add
+Failed to parse line:     Low PC                :      23096
+Failed to parse line:     High PC               :      23223
+Failed to parse line:     Size in program memory:        128
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :              1470556 ( 0.10%)
+Failed to parse line:     Instruction-count     :              1208416 ( 0.09%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_transpose_reshape
+Failed to parse line:     Low PC                :      23224
+Failed to parse line:     High PC               :      23335
+Failed to parse line:     Size in program memory:        112
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               281870 ( 0.02%)
+Failed to parse line:     Instruction-count     :               216336 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default_fused_reshape_transpose_reshape_1
+Failed to parse line:     Low PC                :      23336
+Failed to parse line:     High PC               :      23447
+Failed to parse line:     Size in program memory:        112
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               281870 ( 0.02%)
+Failed to parse line:     Instruction-count     :               216336 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tvmgen_default___tvm_main__
+Failed to parse line:     Low PC                :      23448
+Failed to parse line:     High PC               :      25663
+Failed to parse line:     Size in program memory:       2216
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :              1685050 ( 0.11%)
+Failed to parse line:     Instruction-count     :              1356520 ( 0.10%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __adddf3
+Failed to parse line:     Low PC                :      25664
+Failed to parse line:     High PC               :      27067
+Failed to parse line:     Size in program memory:       1404
+Failed to parse line:     Stack frame size      :         48
+Failed to parse line:     Cycle-count           :                 8276 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 6757 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   61.25%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __ashldi3
+Failed to parse line:     Low PC                :      27068
+Failed to parse line:     High PC               :      27123
+Failed to parse line:     Size in program memory:         56
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  940 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  752 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __ledf2
+Failed to parse line:     Low PC                :      27124
+Failed to parse line:     High PC               :      27307
+Failed to parse line:     Size in program memory:        184
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  773 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  660 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   58.70%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __gedf2
+Failed to parse line:     Low PC                :      27308
+Failed to parse line:     High PC               :      27491
+Failed to parse line:     Size in program memory:        184
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  110 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   91 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   58.70%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __divdf3
+Failed to parse line:     Low PC                :      27492
+Failed to parse line:     High PC               :      28807
+Failed to parse line:     Size in program memory:       1316
+Failed to parse line:     Stack frame size      :         36
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __extendsfdf2
+Failed to parse line:     Low PC                :      28808
+Failed to parse line:     High PC               :      28995
+Failed to parse line:     Size in program memory:        188
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                   88 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   80 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   42.55%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __fixdfsi
+Failed to parse line:     Low PC                :      28996
+Failed to parse line:     High PC               :      29123
+Failed to parse line:     Size in program memory:        128
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                  868 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  694 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   75.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __floatdisf
+Failed to parse line:     Low PC                :      29124
+Failed to parse line:     High PC               :      29491
+Failed to parse line:     Size in program memory:        368
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                 3504 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 2652 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   42.39%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __floatsidf
+Failed to parse line:     Low PC                :      29492
+Failed to parse line:     High PC               :      29607
+Failed to parse line:     Size in program memory:        116
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                 1072 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  984 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __floatunsidf
+Failed to parse line:     Low PC                :      29608
+Failed to parse line:     High PC               :      29699
+Failed to parse line:     Size in program memory:         92
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __fe_getround
+Failed to parse line:     Low PC                :      29700
+Failed to parse line:     High PC               :      29707
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  141 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   94 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __fe_raise_inexact
+Failed to parse line:     Low PC                :      29708
+Failed to parse line:     High PC               :      29715
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   27 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   18 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __lshrdi3
+Failed to parse line:     Low PC                :      29716
+Failed to parse line:     High PC               :      29771
+Failed to parse line:     Size in program memory:         56
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  377 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  306 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __muldf3
+Failed to parse line:     Low PC                :      29772
+Failed to parse line:     High PC               :      30839
+Failed to parse line:     Size in program memory:       1068
+Failed to parse line:     Stack frame size      :         40
+Failed to parse line:     Cycle-count           :                 3636 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 3032 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   40.07%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __subdf3
+Failed to parse line:     Low PC                :      30840
+Failed to parse line:     High PC               :      30851
+Failed to parse line:     Size in program memory:         12
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  124 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   93 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __udivdi3
+Failed to parse line:     Low PC                :      30852
+Failed to parse line:     High PC               :      31215
+Failed to parse line:     Size in program memory:        364
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: hosted_io_with_err
+Failed to parse line:     Low PC                :      31216
+Failed to parse line:     High PC               :      31287
+Failed to parse line:     Size in program memory:         72
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                  126 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   99 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   61.11%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _close
+Failed to parse line:     Low PC                :      31288
+Failed to parse line:     High PC               :      31347
+Failed to parse line:     Size in program memory:         60
+Failed to parse line:     Stack frame size      :         72
+Failed to parse line:     Cycle-count           :                   51 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   45 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _lseek
+Failed to parse line:     Low PC                :      31348
+Failed to parse line:     High PC               :      31415
+Failed to parse line:     Size in program memory:         68
+Failed to parse line:     Stack frame size      :         72
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _read
+Failed to parse line:     Low PC                :      31416
+Failed to parse line:     High PC               :      31487
+Failed to parse line:     Size in program memory:         72
+Failed to parse line:     Stack frame size      :         72
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _write
+Failed to parse line:     Low PC                :      31488
+Failed to parse line:     High PC               :      31559
+Failed to parse line:     Size in program memory:         72
+Failed to parse line:     Stack frame size      :         72
+Failed to parse line:     Cycle-count           :                  120 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  108 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _exit
+Failed to parse line:     Low PC                :      31560
+Failed to parse line:     High PC               :      31567
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fstat
+Failed to parse line:     Low PC                :      31568
+Failed to parse line:     High PC               :      31603
+Failed to parse line:     Size in program memory:         36
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                   11 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    9 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _getpid
+Failed to parse line:     Low PC                :      31604
+Failed to parse line:     High PC               :      31639
+Failed to parse line:     Size in program memory:         36
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _isatty
+Failed to parse line:     Low PC                :      31640
+Failed to parse line:     High PC               :      31687
+Failed to parse line:     Size in program memory:         48
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _kill
+Failed to parse line:     Low PC                :      31688
+Failed to parse line:     High PC               :      31723
+Failed to parse line:     Size in program memory:         36
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _sbrk
+Failed to parse line:     Low PC                :      31724
+Failed to parse line:     High PC               :      31807
+Failed to parse line:     Size in program memory:         84
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                   30 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   24 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   57.14%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _init
+Failed to parse line:     Low PC                :      31808
+Failed to parse line:     High PC               :      31879
+Failed to parse line:     Size in program memory:         72
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                   11 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    8 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   44.44%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _start
+Failed to parse line:     Low PC                :         32
+Failed to parse line:     High PC               :         75
+Failed to parse line:     Size in program memory:         44
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   15 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   11 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fini
+Failed to parse line:     Low PC                :      31880
+Failed to parse line:     High PC               :      31939
+Failed to parse line:     Size in program memory:         60
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   11 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    8 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   53.33%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _main_init _main_init
+Failed to parse line:     Low PC                :          0
+Failed to parse line:     High PC               :         31
+Failed to parse line:     Size in program memory:         32
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    8 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    8 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _pad_last _pad_last
+Failed to parse line:     Low PC                :      74528
+Failed to parse line:     High PC               :      74535
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __register_exitproc
+Failed to parse line:     Low PC                :      31940
+Failed to parse line:     High PC               :      32075
+Failed to parse line:     Size in program memory:        136
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   18 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   15 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   44.12%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __call_exitprocs
+Failed to parse line:     Low PC                :      32076
+Failed to parse line:     High PC               :      32427
+Failed to parse line:     Size in program memory:        352
+Failed to parse line:     Stack frame size      :         44
+Failed to parse line:     Cycle-count           :                   70 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   63 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   71.59%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: abort
+Failed to parse line:     Low PC                :      32428
+Failed to parse line:     High PC               :      32443
+Failed to parse line:     Size in program memory:         16
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __assert_func
+Failed to parse line:     Low PC                :      32444
+Failed to parse line:     High PC               :      32519
+Failed to parse line:     Size in program memory:         76
+Failed to parse line:     Stack frame size      :         20
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: atexit
+Failed to parse line:     Low PC                :      32520
+Failed to parse line:     High PC               :      32539
+Failed to parse line:     Size in program memory:         20
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    6 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    5 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: quorem
+Failed to parse line:     Low PC                :      32540
+Failed to parse line:     High PC               :      33091
+Failed to parse line:     Size in program memory:        552
+Failed to parse line:     Stack frame size      :         28
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _dtoa_r
+Failed to parse line:     Low PC                :      33092
+Failed to parse line:     High PC               :      39351
+Failed to parse line:     Size in program memory:       6260
+Failed to parse line:     Stack frame size      :        140
+Failed to parse line:     Cycle-count           :                 2302 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 1934 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   24.79%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: exit
+Failed to parse line:     Low PC                :      39352
+Failed to parse line:     High PC               :      39399
+Failed to parse line:     Size in program memory:         48
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                   15 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   11 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   91.67%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __ascii_mbtowc
+Failed to parse line:     Low PC                :      39400
+Failed to parse line:     High PC               :      39447
+Failed to parse line:     Size in program memory:         48
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __malloc_lock
+Failed to parse line:     Low PC                :      39448
+Failed to parse line:     High PC               :      39451
+Failed to parse line:     Size in program memory:          4
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   10 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    5 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __malloc_unlock
+Failed to parse line:     Low PC                :      39452
+Failed to parse line:     High PC               :      39455
+Failed to parse line:     Size in program memory:          4
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   10 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    5 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __pow5mult
+Failed to parse line:     Low PC                :      40844
+Failed to parse line:     High PC               :      41167
+Failed to parse line:     Size in program memory:        324
+Failed to parse line:     Stack frame size      :         20
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _Balloc
+Failed to parse line:     Low PC                :      39456
+Failed to parse line:     High PC               :      39619
+Failed to parse line:     Size in program memory:        164
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                  204 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  159 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   90.24%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _Bfree
+Failed to parse line:     Low PC                :      39620
+Failed to parse line:     High PC               :      39651
+Failed to parse line:     Size in program memory:         32
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   63 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   56 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __multadd
+Failed to parse line:     Low PC                :      39652
+Failed to parse line:     High PC               :      39939
+Failed to parse line:     Size in program memory:        288
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __hi0bits
+Failed to parse line:     Low PC                :      39940
+Failed to parse line:     High PC               :      40063
+Failed to parse line:     Size in program memory:        124
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __lo0bits
+Failed to parse line:     Low PC                :      40064
+Failed to parse line:     High PC               :      40255
+Failed to parse line:     Size in program memory:        192
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  150 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  128 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   70.83%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __i2b
+Failed to parse line:     Low PC                :      40256
+Failed to parse line:     High PC               :      40335
+Failed to parse line:     Size in program memory:         80
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __multiply
+Failed to parse line:     Low PC                :      40336
+Failed to parse line:     High PC               :      40843
+Failed to parse line:     Size in program memory:        508
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __lshift
+Failed to parse line:     Low PC                :      41168
+Failed to parse line:     High PC               :      41479
+Failed to parse line:     Size in program memory:        312
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __mcmp
+Failed to parse line:     Low PC                :      41480
+Failed to parse line:     High PC               :      41611
+Failed to parse line:     Size in program memory:        132
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __mdiff
+Failed to parse line:     Low PC                :      41612
+Failed to parse line:     High PC               :      42055
+Failed to parse line:     Size in program memory:        444
+Failed to parse line:     Stack frame size      :         28
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __d2b
+Failed to parse line:     Low PC                :      42056
+Failed to parse line:     High PC               :      42355
+Failed to parse line:     Size in program memory:        300
+Failed to parse line:     Stack frame size      :         28
+Failed to parse line:     Cycle-count           :                  244 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  216 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   72.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __ascii_wctomb
+Failed to parse line:     Low PC                :      42356
+Failed to parse line:     High PC               :      42403
+Failed to parse line:     Size in program memory:         48
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _malloc_trim_r
+Failed to parse line:     Low PC                :      42404
+Failed to parse line:     High PC               :      42731
+Failed to parse line:     Size in program memory:        328
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _free_r
+Failed to parse line:     Low PC                :      42732
+Failed to parse line:     High PC               :      43415
+Failed to parse line:     Size in program memory:        684
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                   72 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   58 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   33.92%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _malloc_r
+Failed to parse line:     Low PC                :      43416
+Failed to parse line:     High PC               :      45647
+Failed to parse line:     Size in program memory:       2232
+Failed to parse line:     Stack frame size      :         64
+Failed to parse line:     Cycle-count           :                  538 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  460 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   36.38%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _realloc_r
+Failed to parse line:     Low PC                :      45648
+Failed to parse line:     High PC               :      47067
+Failed to parse line:     Size in program memory:       1420
+Failed to parse line:     Stack frame size      :         28
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _calloc_r
+Failed to parse line:     Low PC                :      47068
+Failed to parse line:     High PC               :      47251
+Failed to parse line:     Size in program memory:        184
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                  106 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   84 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   80.43%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _wcrtomb_r
+Failed to parse line:     Low PC                :      47252
+Failed to parse line:     High PC               :      47343
+Failed to parse line:     Size in program memory:         92
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: fiprintf
+Failed to parse line:     Low PC                :      47344
+Failed to parse line:     High PC               :      47387
+Failed to parse line:     Size in program memory:         44
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fclose_r
+Failed to parse line:     Low PC                :      47388
+Failed to parse line:     High PC               :      47623
+Failed to parse line:     Size in program memory:        236
+Failed to parse line:     Stack frame size      :         20
+Failed to parse line:     Cycle-count           :                  147 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  106 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   64.41%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sflush_r
+Failed to parse line:     Low PC                :      47624
+Failed to parse line:     High PC               :      48379
+Failed to parse line:     Size in program memory:        756
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                  338 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  272 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   25.93%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fflush_r
+Failed to parse line:     Low PC                :      48380
+Failed to parse line:     High PC               :      48451
+Failed to parse line:     Size in program memory:         72
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                   66 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   48 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   44.44%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: std
+Failed to parse line:     Low PC                :      48452
+Failed to parse line:     High PC               :      48583
+Failed to parse line:     Size in program memory:        132
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                  105 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   99 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sinit
+Failed to parse line:     Low PC                :      48584
+Failed to parse line:     High PC               :      48723
+Failed to parse line:     Size in program memory:        140
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   39 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   34 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   97.14%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _cleanup_r
+Failed to parse line:     Low PC                :      48724
+Failed to parse line:     High PC               :      48735
+Failed to parse line:     Size in program memory:         12
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    4 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    3 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sfvwrite_r
+Failed to parse line:     Low PC                :      48736
+Failed to parse line:     High PC               :      50343
+Failed to parse line:     Size in program memory:       1608
+Failed to parse line:     Stack frame size      :         64
+Failed to parse line:     Cycle-count           :                 3135 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 2593 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   30.60%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fwalk_reent
+Failed to parse line:     Low PC                :      50344
+Failed to parse line:     High PC               :      50539
+Failed to parse line:     Size in program memory:        196
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :                  101 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   90 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   93.88%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __swhatbuf_r
+Failed to parse line:     Low PC                :      50540
+Failed to parse line:     High PC               :      50687
+Failed to parse line:     Size in program memory:        148
+Failed to parse line:     Stack frame size      :         76
+Failed to parse line:     Cycle-count           :                   29 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   23 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   62.16%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __smakebuf_r
+Failed to parse line:     Low PC                :      50688
+Failed to parse line:     High PC               :      50959
+Failed to parse line:     Size in program memory:        272
+Failed to parse line:     Stack frame size      :         28
+Failed to parse line:     Cycle-count           :                   45 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   36 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   52.94%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: printf
+Failed to parse line:     Low PC                :      50960
+Failed to parse line:     High PC               :      51003
+Failed to parse line:     Size in program memory:         44
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   52 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   44 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _puts_r
+Failed to parse line:     Low PC                :      51004
+Failed to parse line:     High PC               :      51199
+Failed to parse line:     Size in program memory:        196
+Failed to parse line:     Stack frame size      :         40
+Failed to parse line:     Cycle-count           :                   98 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   82 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   97.96%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: puts
+Failed to parse line:     Low PC                :      51200
+Failed to parse line:     High PC               :      51211
+Failed to parse line:     Size in program memory:         12
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    8 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    6 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sread
+Failed to parse line:     Low PC                :      51212
+Failed to parse line:     High PC               :      51287
+Failed to parse line:     Size in program memory:         76
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __swrite
+Failed to parse line:     Low PC                :      51288
+Failed to parse line:     High PC               :      51391
+Failed to parse line:     Size in program memory:        104
+Failed to parse line:     Stack frame size      :         20
+Failed to parse line:     Cycle-count           :                   84 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   66 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   42.31%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sseek
+Failed to parse line:     Low PC                :      51392
+Failed to parse line:     High PC               :      51475
+Failed to parse line:     Size in program memory:         84
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sclose
+Failed to parse line:     Low PC                :      51476
+Failed to parse line:     High PC               :      51483
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    9 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    6 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __swbuf_r
+Failed to parse line:     Low PC                :      51484
+Failed to parse line:     High PC               :      51879
+Failed to parse line:     Size in program memory:        396
+Failed to parse line:     Stack frame size      :         20
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __swsetup_r
+Failed to parse line:     Low PC                :      51880
+Failed to parse line:     High PC               :      52199
+Failed to parse line:     Size in program memory:        320
+Failed to parse line:     Stack frame size      :         16
+Failed to parse line:     Cycle-count           :                   47 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   39 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   48.75%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __fputwc
+Failed to parse line:     Low PC                :      52200
+Failed to parse line:     High PC               :      52451
+Failed to parse line:     Size in program memory:        252
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fputwc_r
+Failed to parse line:     Low PC                :      52452
+Failed to parse line:     High PC               :      52491
+Failed to parse line:     Size in program memory:         40
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _vfiprintf_r
+Failed to parse line:     Low PC                :      52964
+Failed to parse line:     High PC               :      57779
+Failed to parse line:     Size in program memory:       4816
+Failed to parse line:     Stack frame size      :        288
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sprint_r
+Failed to parse line:     Low PC                :      52492
+Failed to parse line:     High PC               :      52779
+Failed to parse line:     Size in program memory:        288
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :                  288 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  228 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   26.39%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sbprintf
+Failed to parse line:     Low PC                :      52780
+Failed to parse line:     High PC               :      52963
+Failed to parse line:     Size in program memory:        184
+Failed to parse line:     Stack frame size      :       1140
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _vfprintf_r
+Failed to parse line:     Low PC                :      59448
+Failed to parse line:     High PC               :      69979
+Failed to parse line:     Size in program memory:      10532
+Failed to parse line:     Stack frame size      :        568
+Failed to parse line:     Cycle-count           :                 4542 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 3894 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   21.46%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: cvt
+Failed to parse line:     Low PC                :      57780
+Failed to parse line:     High PC               :      58839
+Failed to parse line:     Size in program memory:       1060
+Failed to parse line:     Stack frame size      :         84
+Failed to parse line:     Cycle-count           :                  450 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  380 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   37.74%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: exponent
+Failed to parse line:     Low PC                :      58840
+Failed to parse line:     High PC               :      59227
+Failed to parse line:     Size in program memory:        388
+Failed to parse line:     Stack frame size      :         32
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __sbprintf
+Failed to parse line:     Low PC                :      59228
+Failed to parse line:     High PC               :      59447
+Failed to parse line:     Size in program memory:        220
+Failed to parse line:     Stack frame size      :       1148
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: memchr
+Failed to parse line:     Low PC                :      69980
+Failed to parse line:     High PC               :      70043
+Failed to parse line:     Size in program memory:         64
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                 2071 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 1503 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   87.50%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: memcpy
+Failed to parse line:     Low PC                :      70044
+Failed to parse line:     High PC               :      70079
+Failed to parse line:     Size in program memory:         36
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: memmove
+Failed to parse line:     Low PC                :      70080
+Failed to parse line:     High PC               :      70175
+Failed to parse line:     Size in program memory:         96
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                 2430 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 1846 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   50.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: memset
+Failed to parse line:     Low PC                :      70176
+Failed to parse line:     High PC               :      70203
+Failed to parse line:     Size in program memory:         28
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  944 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  636 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: strlen
+Failed to parse line:     Low PC                :      70204
+Failed to parse line:     High PC               :      70231
+Failed to parse line:     Size in program memory:         28
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  862 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  588 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: strncpy
+Failed to parse line:     Low PC                :      70232
+Failed to parse line:     High PC               :      70319
+Failed to parse line:     Size in program memory:         88
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _raise_r
+Failed to parse line:     Low PC                :      70320
+Failed to parse line:     High PC               :      70483
+Failed to parse line:     Size in program memory:        164
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: raise
+Failed to parse line:     Low PC                :      70484
+Failed to parse line:     High PC               :      70495
+Failed to parse line:     Size in program memory:         12
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __locale_mb_cur_max
+Failed to parse line:     Low PC                :      70496
+Failed to parse line:     High PC               :      70511
+Failed to parse line:     Size in program memory:         16
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _localeconv_r
+Failed to parse line:     Low PC                :      70512
+Failed to parse line:     High PC               :      70523
+Failed to parse line:     Size in program memory:         12
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                   16 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   12 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _close_r
+Failed to parse line:     Low PC                :      70524
+Failed to parse line:     High PC               :      70583
+Failed to parse line:     Size in program memory:         60
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   48 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   36 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   80.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _fstat_r
+Failed to parse line:     Low PC                :      70584
+Failed to parse line:     High PC               :      70647
+Failed to parse line:     Size in program memory:         64
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   19 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   15 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   93.75%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _isatty_r
+Failed to parse line:     Low PC                :      70648
+Failed to parse line:     High PC               :      70707
+Failed to parse line:     Size in program memory:         60
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _lseek_r
+Failed to parse line:     Low PC                :      70708
+Failed to parse line:     High PC               :      70775
+Failed to parse line:     Size in program memory:         68
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _read_r
+Failed to parse line:     Low PC                :      70776
+Failed to parse line:     High PC               :      70843
+Failed to parse line:     Size in program memory:         68
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _kill_r
+Failed to parse line:     Low PC                :      70844
+Failed to parse line:     High PC               :      70907
+Failed to parse line:     Size in program memory:         64
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _getpid_r
+Failed to parse line:     Low PC                :      70908
+Failed to parse line:     High PC               :      70911
+Failed to parse line:     Size in program memory:          4
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _sbrk_r
+Failed to parse line:     Low PC                :      70912
+Failed to parse line:     High PC               :      70971
+Failed to parse line:     Size in program memory:         60
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                   32 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   24 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   80.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: _write_r
+Failed to parse line:     Low PC                :      70972
+Failed to parse line:     High PC               :      71039
+Failed to parse line:     Size in program memory:         68
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :                  108 ( 0.00%)
+Failed to parse line:     Instruction-count     :                   84 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   82.35%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __errno
+Failed to parse line:     Low PC                :      71040
+Failed to parse line:     High PC               :      71047
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               749571 ( 0.05%)
+Failed to parse line:     Instruction-count     :               499714 ( 0.04%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: frexp
+Failed to parse line:     Low PC                :      71048
+Failed to parse line:     High PC               :      71191
+Failed to parse line:     Size in program memory:        144
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __ieee754_expf
+Failed to parse line:     Low PC                :      71192
+Failed to parse line:     High PC               :      71687
+Failed to parse line:     Size in program memory:        496
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :             12570426 ( 0.84%)
+Failed to parse line:     Instruction-count     :             10199362 ( 0.79%)
+Failed to parse line:     Instruction Coverage  :                   87.90%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __ieee754_sqrtf
+Failed to parse line:     Low PC                :      71688
+Failed to parse line:     High PC               :      71959
+Failed to parse line:     Size in program memory:        272
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: expf
+Failed to parse line:     Low PC                :      71960
+Failed to parse line:     High PC               :      72075
+Failed to parse line:     Size in program memory:        116
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :              4407296 ( 0.29%)
+Failed to parse line:     Instruction-count     :              3508224 ( 0.27%)
+Failed to parse line:     Instruction Coverage  :                   96.55%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: sqrtf
+Failed to parse line:     Low PC                :      72076
+Failed to parse line:     High PC               :      72155
+Failed to parse line:     Size in program memory:         80
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: erff
+Failed to parse line:     Low PC                :      72156
+Failed to parse line:     High PC               :      73223
+Failed to parse line:     Size in program memory:       1068
+Failed to parse line:     Stack frame size      :         24
+Failed to parse line:     Cycle-count           :             18882007 ( 1.26%)
+Failed to parse line:     Instruction-count     :             16376032 ( 1.27%)
+Failed to parse line:     Instruction Coverage  :                   90.26%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: fabsf
+Failed to parse line:     Low PC                :      73224
+Failed to parse line:     High PC               :      73231
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               291864 ( 0.02%)
+Failed to parse line:     Instruction-count     :               194576 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: tanhf
+Failed to parse line:     Low PC                :      73232
+Failed to parse line:     High PC               :      73455
+Failed to parse line:     Size in program memory:        224
+Failed to parse line:     Stack frame size      :         12
+Failed to parse line:     Cycle-count           :                11372 ( 0.00%)
+Failed to parse line:     Instruction-count     :                 8580 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   76.79%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __fpclassifyd
+Failed to parse line:     Low PC                :      73456
+Failed to parse line:     High PC               :      73607
+Failed to parse line:     Size in program memory:        152
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                  152 ( 0.00%)
+Failed to parse line:     Instruction-count     :                  128 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   42.11%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: finitef
+Failed to parse line:     Low PC                :      73608
+Failed to parse line:     High PC               :      73631
+Failed to parse line:     Size in program memory:         24
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               917504 ( 0.06%)
+Failed to parse line:     Instruction-count     :               786432 ( 0.06%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: expm1f
+Failed to parse line:     Low PC                :      73632
+Failed to parse line:     High PC               :      74323
+Failed to parse line:     Size in program memory:        692
+Failed to parse line:     Stack frame size      :          4
+Failed to parse line:     Cycle-count           :                23676 ( 0.00%)
+Failed to parse line:     Instruction-count     :                20583 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                   67.63%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __fpclassifyf
+Failed to parse line:     Low PC                :      74324
+Failed to parse line:     High PC               :      74423
+Failed to parse line:     Size in program memory:        100
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: with_errnof
+Failed to parse line:     Low PC                :      74424
+Failed to parse line:     High PC               :      74459
+Failed to parse line:     Size in program memory:         36
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :              1374208 ( 0.09%)
+Failed to parse line:     Instruction-count     :              1124352 ( 0.09%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: xflowf
+Failed to parse line:     Low PC                :      74460
+Failed to parse line:     High PC               :      74511
+Failed to parse line:     Size in program memory:         52
+Failed to parse line:     Stack frame size      :          8
+Failed to parse line:     Cycle-count           :              1998848 ( 0.13%)
+Failed to parse line:     Instruction-count     :              1499136 ( 0.12%)
+Failed to parse line:     Instruction Coverage  :                   92.31%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __math_uflowf
+Failed to parse line:     Low PC                :      74512
+Failed to parse line:     High PC               :      74519
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :               374784 ( 0.03%)
+Failed to parse line:     Instruction-count     :               249856 ( 0.02%)
+Failed to parse line:     Instruction Coverage  :                  100.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+Failed to parse line: Function detail: __math_oflowf
+Failed to parse line:     Low PC                :      74520
+Failed to parse line:     High PC               :      74527
+Failed to parse line:     Size in program memory:          8
+Failed to parse line:     Stack frame size      :          0
+Failed to parse line:     Cycle-count           :                    0 ( 0.00%)
+Failed to parse line:     Instruction-count     :                    0 ( 0.00%)
+Failed to parse line:     Instruction Coverage  :                    0.00%
+Failed to parse line:     Wait states count     :                    0 ( 0.00%)
+
+Top 10 Instructions by Total Cycle Count in instruction_report.txt:
+1. lw: 347,461,838 cycles
+2. addi: 343,603,612 cycles
+3. add: 142,406,190 cycles
+4. sw: 127,860,047 cycles
+5. fmadd.s: 121,463,844 cycles
+6. bne: 108,603,115 cycles
+7. ori: 30,531,605 cycles
+8. lui: 21,609,750 cycles
+9. or: 16,669,004 cycles
+10. slli: 8,523,310 cycles
