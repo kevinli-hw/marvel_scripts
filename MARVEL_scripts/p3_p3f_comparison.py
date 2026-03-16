@@ -4,17 +4,19 @@ import numpy as np
 
 # Data
 data_cycle_count = {
-    "Model": ["BERT-Tiny", "MobileBERT", "MiniLM", "SqueezeBERT"],
-    "trv32p3f_U": [351624807, 25314556100, 15787453938, 17313588594],
-    "trv32p3fx": [354693734, 15171096151, 16351071311, 16469289221],
-    "trv32p3f": [1494618035/2, 67165571446/2, 66433772829/2, 77226916025/2]
+    # "Model": ["BERT-Tiny", "MobileBERT", "MiniLM", "SqueezeBERT"],
+    "Model": ['B-Ty', 'N-Bt', 'M-Lm', 'E-Lt', 'D-Bt'],
+    "trv32p3f_U": [351624807, 25314556100, 15787453938, 7537575713, 19271719645],
+    "trv32p3fx": [354693734, 15171096151, 16351071311, 7592595587, 20501277237],
+    "trv32p3f": [1494618035/2, 67165571446/2, 66433772829/2, 32886763314/2, 79987267520/2]
 }
 
 data_program_memory_in_bytes = {
-    "Model": ["BERT-Tiny", "MobileBERT", "MiniLM", "SqueezeBERT"],
-    "trv32p3f_U": [190084, 1055708, 437440, 840592],
-    "trv32p3fx": [76808, 595880, 158648, 93640],
-    "trv32p3f": [74536, 559276, 170664, 96064]
+    # "Model": ["BERT-Tiny", "MobileBERT", "MiniLM", "SqueezeBERT"],
+    "Model": ['B-Ty', 'N-Bt', 'M-Lm', 'E-Lt', 'D-Bt'],
+    "trv32p3f_U": [190084, 1055708, 437440, 468604, 627604],
+    "trv32p3fx": [76808, 595880, 158648, 179288, 180656],
+    "trv32p3f": [74536, 559276, 170664, 170484, 189728]
 }
 
 # Convert to DataFrames
@@ -78,10 +80,15 @@ def left_to_right(y):
 # line2, = ax1.plot(x + bar_width/2, right_to_left(df_norm["Accel_trv32p3fx"]),
 #                   marker='o', linestyle='--', label="Acceleration on trv32p3fx", zorder=3)
 
+# line1, = ax1.plot(x, right_to_left(df_norm["Accel_trv32p3f_U"]),
+#                   marker='o', linestyle='-', label="Acc. on trv32p3f_U", zorder=3, color="#08519c", linewidth=3.0)
 line1, = ax1.plot(x, right_to_left(df_norm["Accel_trv32p3f_U"]),
-                  marker='o', linestyle='-', label="Acc. on trv32p3f_U", zorder=3, color="#08519c", linewidth=3.0)
+                  marker='o', linestyle='-', label="Acc. on trv32p3f_U", zorder=3, color="#9ecae1", linewidth=3.0)
+
+# line2, = ax1.plot(x, right_to_left(df_norm["Accel_trv32p3fx"]),
+#                   marker='o', linestyle='--', label="Acc. on trv32p3fx", zorder=3, color="#e6550d", linewidth=3.0)
 line2, = ax1.plot(x, right_to_left(df_norm["Accel_trv32p3fx"]),
-                  marker='o', linestyle='--', label="Acc. on trv32p3fx", zorder=3, color="#e6550d", linewidth=3.0)
+                  marker='o', linestyle='--', label="Acc. on trv32p3fx", zorder=3, color="#fdae6b", linewidth=3.0)
 
 
 right_sec = ax1.secondary_yaxis('right', functions=(left_to_right, right_to_left))
